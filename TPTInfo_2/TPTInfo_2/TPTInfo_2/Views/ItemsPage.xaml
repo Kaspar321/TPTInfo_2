@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TPTInfo_2.Views.ItemsPage"
+             Title="Lingid">
+    <StackLayout>
+        <Button Text="Siseveeb" Clicked="Button_Clicked" BackgroundColor="#00658A" TextColor="#FFFFFF"></Button>
+        <Button Text="Õpilasesindus" Clicked="Button_Clicked_1" BackgroundColor="#00658A" TextColor="#FFFFFF"></Button>
+        <Button Text="Konsultatsiooniajad" Clicked="Button_Clicked_2" BackgroundColor="#00658A" TextColor="#FFFFFF"></Button>
+    </StackLayout>
+</ContentPage>

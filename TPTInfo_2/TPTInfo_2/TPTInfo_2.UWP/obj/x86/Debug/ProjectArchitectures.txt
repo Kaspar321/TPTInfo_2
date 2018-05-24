@@ -1,0 +1,1 @@
+D:\Proge\TPTInfo_2\TPTInfo_2\TPTInfo_2.UWP\TPTInfo_2.UWP.csproj;x86
